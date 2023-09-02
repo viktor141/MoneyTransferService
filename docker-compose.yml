@@ -1,0 +1,5 @@
+services:
+  restservice:
+    image: "moneytransfer"
+    ports:
+      - "5500:5500"
